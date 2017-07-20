@@ -1,0 +1,6 @@
+SAP HANA SPS 09 - What’s New? HANA Dynamic Tiering
+https://www.sap.com/documents/2016/08/643befa9-817c-0010-82c7-eda71af511fa.html
+
+
+SAP HANA SAP HANA Dynamic Tiering for Using Extended Tables
+https://help.sap.com/saphelp_nw74/helpdata/en/c0/fbf3f7bef240bfb3e93d3d5e005619/content.htm

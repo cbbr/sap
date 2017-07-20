@@ -1,0 +1,6 @@
+Multi-Temperature Data Management
+https://help.sap.com/saphelp_nw74/helpdata/en/f6/99e81daef24dfa8414b4e104fd76b7/frameset.htm
+
+Multi-Temperature Categories and BW Architecture (LSA)
+https://help.sap.com/saphelp_nw74/helpdata/en/da/75c4474b554c1e8c7e842763eafc0f/content.htm
+

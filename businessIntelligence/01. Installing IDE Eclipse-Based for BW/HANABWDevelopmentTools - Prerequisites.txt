@@ -1,0 +1,5 @@
+Install BW Components
+https://tools.hana.ondemand.com/#bw
+
+Install Eclipse Neon
+http://www.eclipse.org/neon/

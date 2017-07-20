@@ -1,0 +1,8 @@
+Operational Data Provisioning (ODP)
+https://help.sap.com/saphelp_nw73ehp1/helpdata/en/d9/0da4dd2c4743948e3f018c90a235d7/content.htm
+
+SAP Smart Data Access (SDA)
+https://help.sap.com/saphelp_nw74/helpdata/en/bb/df686dc0d94f779b5c11d06753da95/frameset.htm
+
+SAP Landscape Transformation
+http://help-legacy.sap.com/saplt

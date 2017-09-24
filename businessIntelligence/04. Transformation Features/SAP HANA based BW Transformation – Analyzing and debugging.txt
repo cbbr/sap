@@ -1,0 +1,1 @@
+https://blogs.sap.com/2016/06/23/hana-based-bw-transformation-analyzing-and-debugging/

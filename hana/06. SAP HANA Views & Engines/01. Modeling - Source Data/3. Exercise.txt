@@ -1,0 +1,11 @@
+1. Scope of final calculation view is: ORDER_ID, ITEM_ID, ITEMS_SOLD, SALES_AMOUNT, CUSTOMER_MARITAL_STATUS_ID, CUSTOMER_CHILDREN, CUSTOMER_CITY, CUSTOMER_NAME, CUSTOMER_GENDER_NAME_DG, SALES_AVERAGE, CUSTOMER_GENDER_NAME, CALENDAR_YYYYMM, COUNTER
+
+2. Create a calculated measure with sales average ("SALES_AMOUNT" / "COUNTER")
+
+3. Final granularity must respect sales orders table
+
+4. An input parameter for CALENDAR_YYYYMM must be created in order to filter results, single value, mandatory.
+
+5. Final calculation view must show ALWAYS only last 3 months of sales data. For ex.: if user select 03.2019, only 03, 02 and 01.2019 data will be poped up, if user select 05.2019, only 05, 04 and 03.2019 will be shown.
+
+6. Field CUSTOMER_GENDER_NAME_DG must be created with 2 characters (initials) CUSTOMER_GENDER_NAME
